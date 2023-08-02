@@ -1,0 +1,5 @@
+# All the packages that I need to install
+pandas
+numpy
+seaborn
+-e .
